@@ -1,0 +1,16 @@
+*.class
+*.log
+*.jar
+*.war
+*.zip
+*.tar.zip
+*.rar
+*.exe
+*.iml
+*.project
+.idea
+.project
+*/node_modules/
+*/dist/
+*/target/
+*/package-lock.json
