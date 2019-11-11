@@ -12,7 +12,7 @@
         name: '',
         data() {
 
-            return {msg: 'vue模板页'}
+            return {msg: 'hello worldw'}
 
         },
         mounted() {
